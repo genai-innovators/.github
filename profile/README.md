@@ -33,7 +33,3 @@ We are always open to collaborations, open-source contributions, and new project
 
 - **Website:** [genai-innovators.netlify.app](https://genai-innovators.netlify.app/)
 - **GitHub:** [@genai-innovators](https://github.com/genai-innovators)
-- **Inquiries:** [Your Email Address Here]
-
----
-*“Innovating the digital landscape, one prompt at a time.”*

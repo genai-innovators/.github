@@ -20,6 +20,13 @@ We specialize in delivering high-quality digital services tailored to your needs
 Our official hub where we showcase our capabilities, portfolio, and the services we offer. Built with performance and aesthetics in mind.
 > **Check it out here:** [genai-innovators.netlify.app](https://genai-innovators.netlify.app/)
 
+## 🌐 Web Projects
+
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **Nexus AI** | Enterprise-grade AI solutions platform featuring predictive analytics, universal API connectivity, intelligent command center, and bank-level security infrastructure. Designed to transform business operations with cutting-edge AI technology. | [![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://nexus-ai-mirror.vercel.app/) |
+| **FinAi** | Modern financial management platform for payments, analytics, invoicing, and automation. Built for teams and businesses of all sizes with real-time insights and enterprise-grade security. | [![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://finai-mirror.vercel.app/) |
+
 ## 💻 Tech Stack
 We use a modern stack to ensure our solutions are future-proof:
 - **Frontend:** React, Next.js, Tailwind CSS, TypeScript
